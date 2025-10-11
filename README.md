@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Tanoosree2006/LeetCode/tree/master/0414-third-maximum-number) |
 | [0792-binary-search](https://github.com/Tanoosree2006/LeetCode/tree/master/0792-binary-search) |
 | [1603-running-sum-of-1d-array](https://github.com/Tanoosree2006/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+| [2102-find-the-middle-index-in-array](https://github.com/Tanoosree2006/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 ## Math
 |  |
 | ------- |
@@ -102,4 +103,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/Tanoosree2006/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+| [2102-find-the-middle-index-in-array](https://github.com/Tanoosree2006/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->
