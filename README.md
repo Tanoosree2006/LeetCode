@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Tanoosree2006/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Tanoosree2006/LeetCode/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/Tanoosree2006/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Tanoosree2006/LeetCode/tree/master/0169-majority-element) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Tanoosree2006/LeetCode/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/Tanoosree2006/LeetCode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Tanoosree2006/LeetCode/tree/master/0344-reverse-string) |
 ## Binary Search
