@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Tanoosree2006/LeetCode/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/Tanoosree2006/LeetCode/tree/master/0029-divide-two-integers) |
 | [0189-rotate-array](https://github.com/Tanoosree2006/LeetCode/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Tanoosree2006/LeetCode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/Tanoosree2006/LeetCode/tree/master/0136-single-number) |
 ## Prefix Sum
 |  |
