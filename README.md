@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Tanoosree2006/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Tanoosree2006/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Tanoosree2006/LeetCode/tree/master/0202-happy-number) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/Tanoosree2006/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Tanoosree2006/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Two Pointers
 |  |
