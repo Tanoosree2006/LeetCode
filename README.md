@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Tanoosree2006/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Tanoosree2006/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Tanoosree2006/LeetCode/tree/master/0202-happy-number) |
+| [0412-fizz-buzz](https://github.com/Tanoosree2006/LeetCode/tree/master/0412-fizz-buzz) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Tanoosree2006/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Tanoosree2006/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Two Pointers
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Tanoosree2006/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/Tanoosree2006/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Tanoosree2006/LeetCode/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/Tanoosree2006/LeetCode/tree/master/0412-fizz-buzz) |
 | [0953-reverse-only-letters](https://github.com/Tanoosree2006/LeetCode/tree/master/0953-reverse-only-letters) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Tanoosree2006/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Tanoosree2006/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Tanoosree2006/LeetCode/tree/master/0412-fizz-buzz) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Tanoosree2006/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Tanoosree2006/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## String Matching
