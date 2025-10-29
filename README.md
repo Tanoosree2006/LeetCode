@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Tanoosree2006/LeetCode/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/Tanoosree2006/LeetCode/tree/master/0412-fizz-buzz) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Tanoosree2006/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Tanoosree2006/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Tanoosree2006/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Two Pointers
 |  |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Tanoosree2006/LeetCode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/Tanoosree2006/LeetCode/tree/master/0136-single-number) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Tanoosree2006/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Prefix Sum
 |  |
 | ------- |
