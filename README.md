@@ -187,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2442-number-of-arithmetic-triplets](https://github.com/Tanoosree2006/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Tanoosree2006/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
