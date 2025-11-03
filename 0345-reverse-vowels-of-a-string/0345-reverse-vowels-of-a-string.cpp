@@ -1,17 +1,19 @@
 class Solution {
 public:
     string reverseVowels(string s) {
-        int left=0,right=s.size()-1;
-        auto isVowel=[](char c){
-            return c=='A'|| c=='E'||c=='I'||c=='O'||c=='U'||
-             c=='a'||c=='e'||c=='i'||c=='o'||c=='u';
-        };
-        while(left < right){
-            while(left<right && !isVowel(s[left])) left++;
-            while(left<right && !isVowel(s[right])) right--;
-            swap(s[left],s[right]);
-            left++;
-            right--;
+        stack<char> st;
+        for (int i = 0; i < s.size(); i++) {
+            if (s[i] == 'A' || s[i] == 'E' || s[i] == 'I' || s[i] == 'O' || s[i] == 'U' ||
+                s[i] == 'a' || s[i] == 'e' || s[i] == 'i' || s[i] == 'o' || s[i] == 'u') {
+                st.push(s[i]);
+            }
+        }
+        for (int i = 0; i < s.size(); i++) {
+            if (s[i] == 'A' || s[i] == 'E' || s[i] == 'I' || s[i] == 'O' || s[i] == 'U' ||
+                s[i] == 'a' || s[i] == 'e' || s[i] == 'i' || s[i] == 'o' || s[i] == 'u') {
+                s[i] = st.top();
+                st.pop();
+            }
         }
         return s;
     }
