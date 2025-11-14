@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Tanoosree2006/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Tanoosree2006/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Tanoosree2006/LeetCode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Tanoosree2006/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Tanoosree2006/LeetCode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Tanoosree2006/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0792-binary-search](https://github.com/Tanoosree2006/LeetCode/tree/master/0792-binary-search) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Tanoosree2006/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Tanoosree2006/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Tanoosree2006/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Tanoosree2006/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0861-flipping-an-image](https://github.com/Tanoosree2006/LeetCode/tree/master/0861-flipping-an-image) |
 | [0953-reverse-only-letters](https://github.com/Tanoosree2006/LeetCode/tree/master/0953-reverse-only-letters) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Tanoosree2006/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Tanoosree2006/LeetCode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Tanoosree2006/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Tanoosree2006/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/Tanoosree2006/LeetCode/tree/master/0792-binary-search) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Tanoosree2006/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## Tree
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Tanoosree2006/LeetCode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Tanoosree2006/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Tanoosree2006/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Tanoosree2006/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Tanoosree2006/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0782-jewels-and-stones](https://github.com/Tanoosree2006/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Tanoosree2006/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -150,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Tanoosree2006/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Tanoosree2006/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Tanoosree2006/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Tanoosree2006/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Tanoosree2006/LeetCode/tree/master/0414-third-maximum-number) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Tanoosree2006/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Tanoosree2006/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
