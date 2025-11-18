@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Tanoosree2006/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Tanoosree2006/LeetCode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Tanoosree2006/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/Tanoosree2006/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0792-binary-search](https://github.com/Tanoosree2006/LeetCode/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/Tanoosree2006/LeetCode/tree/master/0861-flipping-an-image) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Tanoosree2006/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
