@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0717-1-bit-and-2-bit-characters](https://github.com/Tanoosree2006/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0792-binary-search](https://github.com/Tanoosree2006/LeetCode/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/Tanoosree2006/LeetCode/tree/master/0861-flipping-an-image) |
+| [1046-last-stone-weight](https://github.com/Tanoosree2006/LeetCode/tree/master/1046-last-stone-weight) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Tanoosree2006/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Tanoosree2006/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1603-running-sum-of-1d-array](https://github.com/Tanoosree2006/LeetCode/tree/master/1603-running-sum-of-1d-array) |
@@ -250,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/Tanoosree2006/LeetCode/tree/master/0861-flipping-an-image) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/Tanoosree2006/LeetCode/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
