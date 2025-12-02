@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Tanoosree2006/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Tanoosree2006/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Tanoosree2006/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Tanoosree2006/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Tanoosree2006/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Tanoosree2006/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Tanoosree2006/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2442-number-of-arithmetic-triplets](https://github.com/Tanoosree2006/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Tanoosree2006/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Database
 |  |
 | ------- |
