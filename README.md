@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Tanoosree2006/LeetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Tanoosree2006/LeetCode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/Tanoosree2006/LeetCode/tree/master/0441-arranging-coins) |
+| [1025-divisor-game](https://github.com/Tanoosree2006/LeetCode/tree/master/1025-divisor-game) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Tanoosree2006/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Tanoosree2006/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1952-three-divisors](https://github.com/Tanoosree2006/LeetCode/tree/master/1952-three-divisors) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Tanoosree2006/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Tanoosree2006/LeetCode/tree/master/0070-climbing-stairs) |
+| [1025-divisor-game](https://github.com/Tanoosree2006/LeetCode/tree/master/1025-divisor-game) |
 ## Memoization
 |  |
 | ------- |
@@ -278,4 +280,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Tanoosree2006/LeetCode/tree/master/0409-longest-palindrome) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Tanoosree2006/LeetCode/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Tanoosree2006/LeetCode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
