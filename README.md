@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-binary-prefix-divisible-by-5](https://github.com/Tanoosree2006/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1046-last-stone-weight](https://github.com/Tanoosree2006/LeetCode/tree/master/1046-last-stone-weight) |
 | [1089-duplicate-zeros](https://github.com/Tanoosree2006/LeetCode/tree/master/1089-duplicate-zeros) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Tanoosree2006/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Tanoosree2006/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Tanoosree2006/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1603-running-sum-of-1d-array](https://github.com/Tanoosree2006/LeetCode/tree/master/1603-running-sum-of-1d-array) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/Tanoosree2006/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/Tanoosree2006/LeetCode/tree/master/0441-arranging-coins) |
 | [0792-binary-search](https://github.com/Tanoosree2006/LeetCode/tree/master/0792-binary-search) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Tanoosree2006/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Tanoosree2006/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## Tree
 |  |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/Tanoosree2006/LeetCode/tree/master/0861-flipping-an-image) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Tanoosree2006/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
