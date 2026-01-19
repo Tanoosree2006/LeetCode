@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Tanoosree2006/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Tanoosree2006/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Tanoosree2006/LeetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Tanoosree2006/LeetCode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Tanoosree2006/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Tanoosree2006/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tanoosree2006/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Tanoosree2006/LeetCode/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/Tanoosree2006/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Tanoosree2006/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Tanoosree2006/LeetCode/tree/master/0268-missing-number) |
 | [0861-flipping-an-image](https://github.com/Tanoosree2006/LeetCode/tree/master/0861-flipping-an-image) |
@@ -366,4 +368,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/Tanoosree2006/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Tanoosree2006/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
