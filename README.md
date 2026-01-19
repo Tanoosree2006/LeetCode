@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Tanoosree2006/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1975-maximum-matrix-sum](https://github.com/Tanoosree2006/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2102-find-the-middle-index-in-array](https://github.com/Tanoosree2006/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Tanoosree2006/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Tanoosree2006/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Tanoosree2006/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Tanoosree2006/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-reverse-only-letters](https://github.com/Tanoosree2006/LeetCode/tree/master/0953-reverse-only-letters) |
 | [1089-duplicate-zeros](https://github.com/Tanoosree2006/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Tanoosree2006/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Tanoosree2006/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Tanoosree2006/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Tanoosree2006/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2561-number-of-distinct-averages](https://github.com/Tanoosree2006/LeetCode/tree/master/2561-number-of-distinct-averages) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Tanoosree2006/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Tanoosree2006/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Tanoosree2006/LeetCode/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Tanoosree2006/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Tanoosree2006/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/Tanoosree2006/LeetCode/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Tanoosree2006/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
