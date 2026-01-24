@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/Tanoosree2006/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Tanoosree2006/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Tanoosree2006/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Tanoosree2006/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/Tanoosree2006/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2102-find-the-middle-index-in-array](https://github.com/Tanoosree2006/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Tanoosree2006/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-reverse-only-letters](https://github.com/Tanoosree2006/LeetCode/tree/master/0953-reverse-only-letters) |
 | [1089-duplicate-zeros](https://github.com/Tanoosree2006/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Tanoosree2006/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Tanoosree2006/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Tanoosree2006/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Tanoosree2006/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Tanoosree2006/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Tanoosree2006/LeetCode/tree/master/0414-third-maximum-number) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Tanoosree2006/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Tanoosree2006/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Tanoosree2006/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Tanoosree2006/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2561-number-of-distinct-averages](https://github.com/Tanoosree2006/LeetCode/tree/master/2561-number-of-distinct-averages) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Tanoosree2006/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0409-longest-palindrome](https://github.com/Tanoosree2006/LeetCode/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/Tanoosree2006/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Tanoosree2006/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/Tanoosree2006/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Tanoosree2006/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 ## Brainteaser
