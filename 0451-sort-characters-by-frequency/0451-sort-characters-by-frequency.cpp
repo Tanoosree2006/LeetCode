@@ -7,7 +7,7 @@ public:
         for(auto a:s) mp[a]++;
         for(auto a:mp) r.insert({a.second,a.first});
         for(auto it=r.rbegin();it!=r.rend();it++)
-             ss+=string(it->first,it->second);
+        ss+=string(it->first,it->second);
         return ss;
     }
 };
