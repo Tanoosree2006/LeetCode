@@ -6,8 +6,8 @@ public:
             if(lastindex.count(nums[i])){
                 if(i-lastindex[nums[i]]<=k) return true;
             }
-        lastindex[nums[i]] = i;
-    }
-    return false;
+            lastindex[nums[i]]=i;
+        }
+        return false;
     }
 };
