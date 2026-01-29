@@ -14,9 +14,9 @@ public:
         ListNode* temp=head;
         while(temp!=nullptr && temp->next!=nullptr){
             if(temp->val==temp->next->val){
-                ListNode* curr=temp->next;
-                temp->next=curr->next;
-                delete curr;
+                ListNode* curr1=temp->next;
+                temp->next=curr1->next;
+                delete curr1;
             }
             else{
                 temp=temp->next;
