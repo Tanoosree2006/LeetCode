@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Tanoosree2006/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Tanoosree2006/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Tanoosree2006/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Tanoosree2006/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Tanoosree2006/LeetCode/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/Tanoosree2006/LeetCode/tree/master/0861-flipping-an-image) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Tanoosree2006/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Tanoosree2006/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/Tanoosree2006/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/Tanoosree2006/LeetCode/tree/master/0441-arranging-coins) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Tanoosree2006/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Tanoosree2006/LeetCode/tree/master/0792-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Tanoosree2006/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Tanoosree2006/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
