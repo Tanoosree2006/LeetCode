@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Tanoosree2006/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Tanoosree2006/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Tanoosree2006/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Tanoosree2006/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Tanoosree2006/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Tanoosree2006/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Tanoosree2006/LeetCode/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Tanoosree2006/LeetCode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Tanoosree2006/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Tanoosree2006/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Tanoosree2006/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Tanoosree2006/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tanoosree2006/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1025-divisor-game](https://github.com/Tanoosree2006/LeetCode/tree/master/1025-divisor-game) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Tanoosree2006/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Memoization
 |  |
 | ------- |
