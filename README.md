@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Tanoosree2006/LeetCode/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/Tanoosree2006/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Tanoosree2006/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Tanoosree2006/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Tanoosree2006/LeetCode/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/Tanoosree2006/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Tanoosree2006/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Tanoosree2006/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Tanoosree2006/LeetCode/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/Tanoosree2006/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Tanoosree2006/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Tanoosree2006/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Tanoosree2006/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Tanoosree2006/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tanoosree2006/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1382-balance-a-binary-search-tree](https://github.com/Tanoosree2006/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Counting
 |  |
 | ------- |
@@ -395,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0409-longest-palindrome](https://github.com/Tanoosree2006/LeetCode/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/Tanoosree2006/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [1382-balance-a-binary-search-tree](https://github.com/Tanoosree2006/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Tanoosree2006/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/Tanoosree2006/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Tanoosree2006/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -437,4 +442,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Tanoosree2006/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/Tanoosree2006/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
