@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/Tanoosree2006/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Tanoosree2006/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2561-number-of-distinct-averages](https://github.com/Tanoosree2006/LeetCode/tree/master/2561-number-of-distinct-averages) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Tanoosree2006/LeetCode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Tanoosree2006/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/Tanoosree2006/LeetCode/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Tanoosree2006/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Tanoosree2006/LeetCode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3354-make-array-elements-equal-to-zero](https://github.com/Tanoosree2006/LeetCode/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3379-transformed-array](https://github.com/Tanoosree2006/LeetCode/tree/master/3379-transformed-array) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Tanoosree2006/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Tanoosree2006/LeetCode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## String Matching
 |  |
 | ------- |
