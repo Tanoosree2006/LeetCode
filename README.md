@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Tanoosree2006/LeetCode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1768-merge-strings-alternately](https://github.com/Tanoosree2006/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Tanoosree2006/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Tanoosree2006/LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Tanoosree2006/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Tanoosree2006/LeetCode/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Tanoosree2006/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
