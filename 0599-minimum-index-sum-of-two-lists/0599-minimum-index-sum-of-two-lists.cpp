@@ -9,13 +9,13 @@ public:
             for(int j=0;j<m;j++){
                 if(list1[i]==list2[j]){
                     if(i+j<minsum){
-                    result.clear();
-                    result.push_back(list1[i]);
-                    minsum=i+j;
-                }
-                else if(i+j==minsum){
-                    result.push_back(list1[i]);
-                }
+                        result.clear();
+                        result.push_back(list1[i]);
+                        minsum=i+j;
+                    }
+                    else if(i+j==minsum){
+                        result.push_back(list1[i]);
+                    }
                 }
             }
         }
