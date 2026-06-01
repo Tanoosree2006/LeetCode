@@ -4,7 +4,7 @@ public:
         sort(cost.rbegin(),cost.rend());
         int sum=0,n=cost.size();
         for(int i=0;i<n;i++){
-            if((i+1)%3) sum+=cost[i];
+            if((i+1)%3!=0) sum+=cost[i];
         }
         return sum;
     }
