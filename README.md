@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Tanoosree2006/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Tanoosree2006/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3637-trionic-array-i](https://github.com/Tanoosree2006/LeetCode/tree/master/3637-trionic-array-i) |
+| [3866-first-unique-even-element](https://github.com/Tanoosree2006/LeetCode/tree/master/3866-first-unique-even-element) |
 | [3925-concatenate-array-with-reverse](https://github.com/Tanoosree2006/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 ## Math
 |  |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2561-number-of-distinct-averages](https://github.com/Tanoosree2006/LeetCode/tree/master/2561-number-of-distinct-averages) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Tanoosree2006/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Tanoosree2006/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3866-first-unique-even-element](https://github.com/Tanoosree2006/LeetCode/tree/master/3866-first-unique-even-element) |
 ## String
 |  |
 | ------- |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/Tanoosree2006/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1189-maximum-number-of-balloons](https://github.com/Tanoosree2006/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [2833-furthest-point-from-origin](https://github.com/Tanoosree2006/LeetCode/tree/master/2833-furthest-point-from-origin) |
+| [3866-first-unique-even-element](https://github.com/Tanoosree2006/LeetCode/tree/master/3866-first-unique-even-element) |
 ## Bit Manipulation
 |  |
 | ------- |
