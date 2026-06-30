@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/Tanoosree2006/LeetCode/tree/master/2540-minimum-common-value) |
 | [2561-number-of-distinct-averages](https://github.com/Tanoosree2006/LeetCode/tree/master/2561-number-of-distinct-averages) |
 | [2714-left-and-right-sum-differences](https://github.com/Tanoosree2006/LeetCode/tree/master/2714-left-and-right-sum-differences) |
+| [2951-find-the-peaks](https://github.com/Tanoosree2006/LeetCode/tree/master/2951-find-the-peaks) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Tanoosree2006/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Tanoosree2006/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Tanoosree2006/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/Tanoosree2006/LeetCode/tree/master/1952-three-divisors) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Tanoosree2006/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Tanoosree2006/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2951-find-the-peaks](https://github.com/Tanoosree2006/LeetCode/tree/master/2951-find-the-peaks) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Tanoosree2006/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Tanoosree2006/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Database
