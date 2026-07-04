@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/Tanoosree2006/LeetCode/tree/master/2540-minimum-common-value) |
 | [2561-number-of-distinct-averages](https://github.com/Tanoosree2006/LeetCode/tree/master/2561-number-of-distinct-averages) |
 | [2714-left-and-right-sum-differences](https://github.com/Tanoosree2006/LeetCode/tree/master/2714-left-and-right-sum-differences) |
+| [2748-number-of-beautiful-pairs](https://github.com/Tanoosree2006/LeetCode/tree/master/2748-number-of-beautiful-pairs) |
 | [2951-find-the-peaks](https://github.com/Tanoosree2006/LeetCode/tree/master/2951-find-the-peaks) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Tanoosree2006/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Tanoosree2006/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Tanoosree2006/LeetCode/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Tanoosree2006/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2485-find-the-pivot-integer](https://github.com/Tanoosree2006/LeetCode/tree/master/2485-find-the-pivot-integer) |
+| [2748-number-of-beautiful-pairs](https://github.com/Tanoosree2006/LeetCode/tree/master/2748-number-of-beautiful-pairs) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Tanoosree2006/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Tanoosree2006/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Tanoosree2006/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-number-of-arithmetic-triplets](https://github.com/Tanoosree2006/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2540-minimum-common-value](https://github.com/Tanoosree2006/LeetCode/tree/master/2540-minimum-common-value) |
 | [2561-number-of-distinct-averages](https://github.com/Tanoosree2006/LeetCode/tree/master/2561-number-of-distinct-averages) |
+| [2748-number-of-beautiful-pairs](https://github.com/Tanoosree2006/LeetCode/tree/master/2748-number-of-beautiful-pairs) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Tanoosree2006/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Tanoosree2006/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3866-first-unique-even-element](https://github.com/Tanoosree2006/LeetCode/tree/master/3866-first-unique-even-element) |
@@ -382,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/Tanoosree2006/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1189-maximum-number-of-balloons](https://github.com/Tanoosree2006/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Tanoosree2006/LeetCode/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2748-number-of-beautiful-pairs](https://github.com/Tanoosree2006/LeetCode/tree/master/2748-number-of-beautiful-pairs) |
 | [2833-furthest-point-from-origin](https://github.com/Tanoosree2006/LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [3866-first-unique-even-element](https://github.com/Tanoosree2006/LeetCode/tree/master/3866-first-unique-even-element) |
 ## Bit Manipulation
@@ -458,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/Tanoosree2006/LeetCode/tree/master/1952-three-divisors) |
+| [2748-number-of-beautiful-pairs](https://github.com/Tanoosree2006/LeetCode/tree/master/2748-number-of-beautiful-pairs) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Tanoosree2006/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Trie
 |  |
