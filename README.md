@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/Tanoosree2006/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Tanoosree2006/LeetCode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2485-find-the-pivot-integer](https://github.com/Tanoosree2006/LeetCode/tree/master/2485-find-the-pivot-integer) |
+| [2525-categorize-box-according-to-criteria](https://github.com/Tanoosree2006/LeetCode/tree/master/2525-categorize-box-according-to-criteria) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/Tanoosree2006/LeetCode/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2748-number-of-beautiful-pairs](https://github.com/Tanoosree2006/LeetCode/tree/master/2748-number-of-beautiful-pairs) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Tanoosree2006/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
