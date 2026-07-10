@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Tanoosree2006/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2293-min-max-game](https://github.com/Tanoosree2006/LeetCode/tree/master/2293-min-max-game) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Tanoosree2006/LeetCode/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2347-best-poker-hand](https://github.com/Tanoosree2006/LeetCode/tree/master/2347-best-poker-hand) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Tanoosree2006/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Tanoosree2006/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Tanoosree2006/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Tanoosree2006/LeetCode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Tanoosree2006/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Tanoosree2006/LeetCode/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2347-best-poker-hand](https://github.com/Tanoosree2006/LeetCode/tree/master/2347-best-poker-hand) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Tanoosree2006/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Tanoosree2006/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2540-minimum-common-value](https://github.com/Tanoosree2006/LeetCode/tree/master/2540-minimum-common-value) |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Tanoosree2006/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1512-number-of-good-pairs](https://github.com/Tanoosree2006/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Tanoosree2006/LeetCode/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2347-best-poker-hand](https://github.com/Tanoosree2006/LeetCode/tree/master/2347-best-poker-hand) |
 | [2748-number-of-beautiful-pairs](https://github.com/Tanoosree2006/LeetCode/tree/master/2748-number-of-beautiful-pairs) |
 | [2833-furthest-point-from-origin](https://github.com/Tanoosree2006/LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [3866-first-unique-even-element](https://github.com/Tanoosree2006/LeetCode/tree/master/3866-first-unique-even-element) |
