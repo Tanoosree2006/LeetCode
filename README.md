@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2347-best-poker-hand](https://github.com/Tanoosree2006/LeetCode/tree/master/2347-best-poker-hand) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Tanoosree2006/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Tanoosree2006/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Tanoosree2006/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Tanoosree2006/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2540-minimum-common-value](https://github.com/Tanoosree2006/LeetCode/tree/master/2540-minimum-common-value) |
 | [2561-number-of-distinct-averages](https://github.com/Tanoosree2006/LeetCode/tree/master/2561-number-of-distinct-averages) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/Tanoosree2006/LeetCode/tree/master/1952-three-divisors) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Tanoosree2006/LeetCode/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Tanoosree2006/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Tanoosree2006/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Tanoosree2006/LeetCode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2485-find-the-pivot-integer](https://github.com/Tanoosree2006/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [2525-categorize-box-according-to-criteria](https://github.com/Tanoosree2006/LeetCode/tree/master/2525-categorize-box-according-to-criteria) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2347-best-poker-hand](https://github.com/Tanoosree2006/LeetCode/tree/master/2347-best-poker-hand) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Tanoosree2006/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Tanoosree2006/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Tanoosree2006/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2540-minimum-common-value](https://github.com/Tanoosree2006/LeetCode/tree/master/2540-minimum-common-value) |
 | [2561-number-of-distinct-averages](https://github.com/Tanoosree2006/LeetCode/tree/master/2561-number-of-distinct-averages) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/Tanoosree2006/LeetCode/tree/master/2729-check-if-the-number-is-fascinating) |
@@ -418,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Tanoosree2006/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Tanoosree2006/LeetCode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2347-best-poker-hand](https://github.com/Tanoosree2006/LeetCode/tree/master/2347-best-poker-hand) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Tanoosree2006/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2748-number-of-beautiful-pairs](https://github.com/Tanoosree2006/LeetCode/tree/master/2748-number-of-beautiful-pairs) |
 | [2833-furthest-point-from-origin](https://github.com/Tanoosree2006/LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [3866-first-unique-even-element](https://github.com/Tanoosree2006/LeetCode/tree/master/3866-first-unique-even-element) |
