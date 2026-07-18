@@ -3,6 +3,12 @@ public:
     int findGCD(vector<int>& nums) {
         int mx=*max_element(nums.begin(),nums.end());
         int mn=*min_element(nums.begin(),nums.end());
-        return gcd(mx,mn);
+        int gcd=1;
+        for(int i=1;i<=mn;i++){
+            if(mn%i==0 && mx%i==0 && i>gcd){
+                gcd=i;
+            }
+        }
+        return gcd;
     }
 };
