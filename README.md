@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/Tanoosree2006/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tanoosree2006/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Tanoosree2006/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Tanoosree2006/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Tanoosree2006/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2102-find-the-middle-index-in-array](https://github.com/Tanoosree2006/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Tanoosree2006/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Tanoosree2006/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Tanoosree2006/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Tanoosree2006/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Tanoosree2006/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2126-destroying-asteroids](https://github.com/Tanoosree2006/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Tanoosree2006/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Tanoosree2006/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -587,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/Tanoosree2006/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Tanoosree2006/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/Tanoosree2006/LeetCode/tree/master/1975-maximum-matrix-sum) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Tanoosree2006/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Tanoosree2006/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/Tanoosree2006/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Tanoosree2006/LeetCode/tree/master/2139-minimum-moves-to-reach-target-score) |
@@ -650,4 +653,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tanoosree2006/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Tanoosree2006/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 <!---LeetCode Topics End-->
