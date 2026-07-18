@@ -370,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Tanoosree2006/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Tanoosree2006/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/Tanoosree2006/LeetCode/tree/master/2264-largest-3-same-digit-number-in-string) |
+| [2278-percentage-of-letter-in-string](https://github.com/Tanoosree2006/LeetCode/tree/master/2278-percentage-of-letter-in-string) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Tanoosree2006/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Tanoosree2006/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2788-split-strings-by-separator](https://github.com/Tanoosree2006/LeetCode/tree/master/2788-split-strings-by-separator) |
