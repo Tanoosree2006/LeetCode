@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Tanoosree2006/LeetCode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Tanoosree2006/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1975-maximum-matrix-sum](https://github.com/Tanoosree2006/LeetCode/tree/master/1975-maximum-matrix-sum) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Tanoosree2006/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Tanoosree2006/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Tanoosree2006/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2102-find-the-middle-index-in-array](https://github.com/Tanoosree2006/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/Tanoosree2006/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1925-count-square-sum-triples](https://github.com/Tanoosree2006/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [1952-three-divisors](https://github.com/Tanoosree2006/LeetCode/tree/master/1952-three-divisors) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Tanoosree2006/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Tanoosree2006/LeetCode/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Tanoosree2006/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Tanoosree2006/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -532,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/Tanoosree2006/LeetCode/tree/master/1952-three-divisors) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Tanoosree2006/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2748-number-of-beautiful-pairs](https://github.com/Tanoosree2006/LeetCode/tree/master/2748-number-of-beautiful-pairs) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Tanoosree2006/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Tanoosree2006/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
