@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3861-minimum-capacity-box](https://github.com/Tanoosree2006/LeetCode/tree/master/3861-minimum-capacity-box) |
 | [3866-first-unique-even-element](https://github.com/Tanoosree2006/LeetCode/tree/master/3866-first-unique-even-element) |
 | [3925-concatenate-array-with-reverse](https://github.com/Tanoosree2006/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/Tanoosree2006/LeetCode/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Math
 |  |
 | ------- |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/Tanoosree2006/LeetCode/tree/master/2540-minimum-common-value) |
 | [2561-number-of-distinct-averages](https://github.com/Tanoosree2006/LeetCode/tree/master/2561-number-of-distinct-averages) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Tanoosree2006/LeetCode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/Tanoosree2006/LeetCode/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
