@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1550-three-consecutive-odds](https://github.com/Tanoosree2006/LeetCode/tree/master/1550-three-consecutive-odds) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Tanoosree2006/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1603-running-sum-of-1d-array](https://github.com/Tanoosree2006/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/Tanoosree2006/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/Tanoosree2006/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/Tanoosree2006/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Tanoosree2006/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -575,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/Tanoosree2006/LeetCode/tree/master/0766-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/Tanoosree2006/LeetCode/tree/master/0861-flipping-an-image) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Tanoosree2006/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1672-richest-customer-wealth](https://github.com/Tanoosree2006/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1975-maximum-matrix-sum](https://github.com/Tanoosree2006/LeetCode/tree/master/1975-maximum-matrix-sum) |
 ## Heap (Priority Queue)
 |  |
