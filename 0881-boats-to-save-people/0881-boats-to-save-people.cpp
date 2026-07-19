@@ -10,9 +10,7 @@ public:
                 left++;
                 right--;
             }
-            else {
-                right--;
-            }
+            else right--;
             boats++;
         }
         return boats;
