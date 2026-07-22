@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Tanoosree2006/LeetCode/tree/master/0860-lemonade-change) |
 | [0861-flipping-an-image](https://github.com/Tanoosree2006/LeetCode/tree/master/0861-flipping-an-image) |
 | [0881-boats-to-save-people](https://github.com/Tanoosree2006/LeetCode/tree/master/0881-boats-to-save-people) |
+| [0912-sort-an-array](https://github.com/Tanoosree2006/LeetCode/tree/master/0912-sort-an-array) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Tanoosree2006/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Tanoosree2006/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Tanoosree2006/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Tanoosree2006/LeetCode/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Tanoosree2006/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0881-boats-to-save-people](https://github.com/Tanoosree2006/LeetCode/tree/master/0881-boats-to-save-people) |
+| [0912-sort-an-array](https://github.com/Tanoosree2006/LeetCode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Tanoosree2006/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/Tanoosree2006/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/Tanoosree2006/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Tanoosree2006/LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Tanoosree2006/LeetCode/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tanoosree2006/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/Tanoosree2006/LeetCode/tree/master/0912-sort-an-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/Tanoosree2006/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Counting
 |  |
@@ -598,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tanoosree2006/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Tanoosree2006/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/Tanoosree2006/LeetCode/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/Tanoosree2006/LeetCode/tree/master/1046-last-stone-weight) |
 ## Greedy
 |  |
@@ -657,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Tanoosree2006/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/Tanoosree2006/LeetCode/tree/master/0912-sort-an-array) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -673,6 +678,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/Tanoosree2006/LeetCode/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tanoosree2006/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Tanoosree2006/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Tanoosree2006/LeetCode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Tanoosree2006/LeetCode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
