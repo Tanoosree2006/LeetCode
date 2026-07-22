@@ -6,8 +6,8 @@ public:
             freq[x]++;
         }
         int n=nums.size();
-        for(auto p:freq){
-            if(p.second >n/2) return p.first;
+        for(auto it:freq){
+            if(it.second>n/2) return it.first;
         }
         return -1;
     }
