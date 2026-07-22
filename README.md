@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Tanoosree2006/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Tanoosree2006/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0705-design-hashset](https://github.com/Tanoosree2006/LeetCode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Tanoosree2006/LeetCode/tree/master/0706-design-hashmap) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Tanoosree2006/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/Tanoosree2006/LeetCode/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Tanoosree2006/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Tanoosree2006/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Tanoosree2006/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0705-design-hashset](https://github.com/Tanoosree2006/LeetCode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Tanoosree2006/LeetCode/tree/master/0706-design-hashmap) |
 | [0782-jewels-and-stones](https://github.com/Tanoosree2006/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Tanoosree2006/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Tanoosree2006/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Tanoosree2006/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/Tanoosree2006/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0705-design-hashset](https://github.com/Tanoosree2006/LeetCode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Tanoosree2006/LeetCode/tree/master/0706-design-hashmap) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Tanoosree2006/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
@@ -656,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Tanoosree2006/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Tanoosree2006/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0705-design-hashset](https://github.com/Tanoosree2006/LeetCode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Tanoosree2006/LeetCode/tree/master/0706-design-hashmap) |
 ## Sliding Window
 |  |
 | ------- |
@@ -697,4 +701,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/Tanoosree2006/LeetCode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Tanoosree2006/LeetCode/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
