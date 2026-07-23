@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Tanoosree2006/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Tanoosree2006/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Tanoosree2006/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0682-baseball-game](https://github.com/Tanoosree2006/LeetCode/tree/master/0682-baseball-game) |
 | [0705-design-hashset](https://github.com/Tanoosree2006/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Tanoosree2006/LeetCode/tree/master/0706-design-hashmap) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Tanoosree2006/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Tanoosree2006/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Tanoosree2006/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/Tanoosree2006/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/Tanoosree2006/LeetCode/tree/master/0682-baseball-game) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Tanoosree2006/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Tanoosree2006/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Divide and Conquer
@@ -551,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/Tanoosree2006/LeetCode/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/Tanoosree2006/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [0682-baseball-game](https://github.com/Tanoosree2006/LeetCode/tree/master/0682-baseball-game) |
 | [0861-flipping-an-image](https://github.com/Tanoosree2006/LeetCode/tree/master/0861-flipping-an-image) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Tanoosree2006/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Tanoosree2006/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
