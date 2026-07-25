@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/Tanoosree2006/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Tanoosree2006/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Tanoosree2006/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3536-maximum-product-of-two-digits](https://github.com/Tanoosree2006/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Tanoosree2006/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Tanoosree2006/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Tanoosree2006/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Tanoosree2006/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Tanoosree2006/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Tanoosree2006/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
+| [3536-maximum-product-of-two-digits](https://github.com/Tanoosree2006/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Linked List
 |  |
 | ------- |
