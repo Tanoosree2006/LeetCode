@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tanoosree2006/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Tanoosree2006/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Tanoosree2006/LeetCode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tanoosree2006/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Tanoosree2006/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Tanoosree2006/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Tanoosree2006/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Tanoosree2006/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tanoosree2006/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Tanoosree2006/LeetCode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tanoosree2006/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Tanoosree2006/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Tanoosree2006/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Tanoosree2006/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -652,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Tanoosree2006/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/Tanoosree2006/LeetCode/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/Tanoosree2006/LeetCode/tree/master/1046-last-stone-weight) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tanoosree2006/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2974-minimum-number-game](https://github.com/Tanoosree2006/LeetCode/tree/master/2974-minimum-number-game) |
 ## Greedy
 |  |
