@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-largest-triangle-area](https://github.com/Tanoosree2006/LeetCode/tree/master/0812-largest-triangle-area) |
 | [0860-lemonade-change](https://github.com/Tanoosree2006/LeetCode/tree/master/0860-lemonade-change) |
 | [0861-flipping-an-image](https://github.com/Tanoosree2006/LeetCode/tree/master/0861-flipping-an-image) |
+| [0877-stone-game](https://github.com/Tanoosree2006/LeetCode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Tanoosree2006/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/Tanoosree2006/LeetCode/tree/master/0912-sort-an-array) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Tanoosree2006/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Tanoosree2006/LeetCode/tree/master/0441-arranging-coins) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Tanoosree2006/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0812-largest-triangle-area](https://github.com/Tanoosree2006/LeetCode/tree/master/0812-largest-triangle-area) |
+| [0877-stone-game](https://github.com/Tanoosree2006/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Tanoosree2006/LeetCode/tree/master/1025-divisor-game) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Tanoosree2006/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Tanoosree2006/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -582,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Tanoosree2006/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tanoosree2006/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Tanoosree2006/LeetCode/tree/master/0392-is-subsequence) |
+| [0877-stone-game](https://github.com/Tanoosree2006/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Tanoosree2006/LeetCode/tree/master/1025-divisor-game) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Tanoosree2006/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Memoization
@@ -693,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/Tanoosree2006/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Tanoosree2006/LeetCode/tree/master/1025-divisor-game) |
 ## Quickselect
 |  |
