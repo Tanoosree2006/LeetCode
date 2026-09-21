@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Tanoosree2006/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/Tanoosree2006/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Tanoosree2006/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Tanoosree2006/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Tanoosree2006/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Tanoosree2006/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Tanoosree2006/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -524,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Tanoosree2006/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Tanoosree2006/LeetCode/tree/master/0143-reorder-list) |
 | [0496-next-greater-element-i](https://github.com/Tanoosree2006/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Tanoosree2006/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Tanoosree2006/LeetCode/tree/master/0682-baseball-game) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Tanoosree2006/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Tanoosree2006/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -768,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Tanoosree2006/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Tanoosree2006/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Tanoosree2006/LeetCode/tree/master/0503-next-greater-element-ii) |
 ## Graph Theory
 |  |
 | ------- |
