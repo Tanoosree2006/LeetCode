@@ -458,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2278-percentage-of-letter-in-string](https://github.com/Tanoosree2006/LeetCode/tree/master/2278-percentage-of-letter-in-string) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Tanoosree2006/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Tanoosree2006/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2710-remove-trailing-zeros-from-a-string](https://github.com/Tanoosree2006/LeetCode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2788-split-strings-by-separator](https://github.com/Tanoosree2006/LeetCode/tree/master/2788-split-strings-by-separator) |
 | [2833-furthest-point-from-origin](https://github.com/Tanoosree2006/LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Tanoosree2006/LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
